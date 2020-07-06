@@ -1,0 +1,116 @@
+/afs/slac.stanford.edu/u/dm/jnels1/general_sim_ana/general_tools.py:42: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  cyl_gammas['r'] = r3[(is_out|is_through)&inner_region&vol_oi]
+/afs/slac.stanford.edu/u/dm/jnels1/general_sim_ana/general_tools.py:43: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  cyl_gammas['theta'] = theta3[(is_out|is_through)&inner_region&vol_oi]
+Found [ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24] detectors
+writing hits from /nfs/slac/g/cdms/u05/env_sims/replay_data/no_shield/output/cstem_replay_00200602_0069.root to /nfs/slac/g/cdms/u05/env_sims/cavern_gammas/c_replay_skimmed/cstem_replay_00200602_0069_skimmed.p
+/afs/slac.stanford.edu/u/dm/jnels1/general_sim_ana/general_tools.py:42: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  cyl_gammas['r'] = r3[(is_out|is_through)&inner_region&vol_oi]
+/afs/slac.stanford.edu/u/dm/jnels1/general_sim_ana/general_tools.py:43: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  cyl_gammas['theta'] = theta3[(is_out|is_through)&inner_region&vol_oi]
+Found [ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24] detectors
+writing hits from /nfs/slac/g/cdms/u05/env_sims/replay_data/no_shield/output/cstem_replay_00200603_0074.root to /nfs/slac/g/cdms/u05/env_sims/cavern_gammas/c_replay_skimmed/cstem_replay_00200603_0074_skimmed.p
+
+------------------------------------------------------------
+Sender: LSF System <lsf@hequ0144>
+Subject: Job 127671: <python skim_one.py /nfs/slac/g/cdms/u05/env_sims/replay_data/no_shield/output/cstem_replay_00200603_0074.root /nfs/slac/g/cdms/u05/env_sims/cavern_gammas/c_replay_skimmed/cstem_replay_00200603_0074_skimmed.p> in cluster <slac> Done
+
+Job <python skim_one.py /nfs/slac/g/cdms/u05/env_sims/replay_data/no_shield/output/cstem_replay_00200603_0074.root /nfs/slac/g/cdms/u05/env_sims/cavern_gammas/c_replay_skimmed/cstem_replay_00200603_0074_skimmed.p> was submitted from host <rhel6-64p> by user <jnels1> in cluster <slac> at Mon Jun 29 08:32:33 2020
+Job was executed on host(s) <hequ0144>, in queue <medium>, as user <jnels1> in cluster <slac> at Mon Jun 29 08:32:36 2020
+</u/dm/jnels1> was used as the home directory.
+</u/dm/jnels1/general_sim_ana/processing/slac> was used as the wo/a/afs/slac.stanford.edu/u/dm/jnels1/general_sim_ana/general_tools.py:42: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  cyl_gammas['r'] = r3[(is_out|is_through)&inner_region&vol_oi]
+/afs/slac.stanford.edu/u/dm/jnels1/general_sim_ana/general_tools.py:43: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  cyl_gammas['theta'] = theta3[(is_out|is_through)&inner_region&vol_oi]
+Found [ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24] detectors
+writing hits from /nfs/slac/g/cdms/u05/env_sims/replay_data/no_shield/output/cstem_replay_00200603_0075.root to /nfs/slac/g/cdms/u05/env_sims/cavern_gammas/c_replay_skimmed/cstem_replay_00200603_0075_skimmed.p
+
+------------------------------------------------------------
+Sender: LSF System <lsf@bullet0150>
+Subject: Job 127673: <python skim_one.py /nfs/slac/g/cdms/u05/env_sims/replay_data/no_shield/output/cstem_replay_00200603_0075.root /nfs/slac/g/cdms/u05/env_sims/cavern_gammas/c_replay_skimmed/cstem_replay_00200603_0075_skimmed.p> in cluster <slac> Done
+
+Job <python skim_one.py /nfs/slac/g/cdms/u05/env_sims/replay_data/no_shield/output/cstem_replay_00200603_0075.root /nfs/slac/g/cdms/u05/env_sims/cavern_gammas/c_replay_skimmed/cstem_replay_00200603_0075_skimmed.p> was submitted from host <rhel6-64p> by user <jnels1> in cluster <slac> at Mon Jun 29 08:32:33 2020
+Job was executed on host(s) <bullet0150>, in queue <medium>, as user <jnels1> in cluster <slac> at Mon Jun 29 08:32:36 2020
+</u/dm/jnels1> was used as the home directory.
+</u/dm/jnels1/general_sim_ana/processing/slac> was used as the working directory.
+Started at Mon Jun 29 08:32:36 2020
+Terminated at Mon Jun 29 08:34:28 2020
+Results reported at Mon Jun 29 08:34:28 2020
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+python skim_one.py /nfs/slac/g/cdms/u05/env_sims/replay_data/no_shield/output/cstem_replay_00200603_0075.root /nfs/slac/g/cdms/u05/env_sims/cavern_gammas/c_replay_skimmed/cstem_replay_00200603_0075_skimmed.p
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   9.93 sec.
+    Max Memory :                                 58 MB
+    Average Memory :                             33.17 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              3
+    Max Threads :                                4
+    Run time :                                   114 sec.
+    Turnaround time :                            115 sec.
+
+The output (if any) is above this job summary.
+
+rectory.
+Started at Mon Jun 29 08:32:23 2020
+Terminated at Mon Jun 29 08:34:18 2020
+Results reported at Mon Jun 29 08:34:18 2020
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+python skim_one.py /nfs/slac/g/cdms/u05/env_sims/replay_data/no_shield/output/cstem_replay_00200603_0007.root /nfs/slac/g/cdms/u05/env_sims/cavern_gammas/c_replay_skimmed/cstem_replay_00200603_0007_skimmed.p
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   6.94 sec.
+    Max Memory :                                 58 MB
+    Average Memory :                             39.60 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              3
+    Max Threads :                                4
+    Run time :                                   123 sec.
+    Turnaround time :                            118 sec.
+
+The output (if any) is above this job summary.
+
